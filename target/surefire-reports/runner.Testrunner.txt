@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: runner.Testrunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.233 sec <<< FAILURE!
+Testing different combination of the game(Game Rock, Paper or Scissors)  Time elapsed: 0.047 sec  <<< ERROR!
+java.lang.NullPointerException
+	at GameSteps.theUserWillChoose(GameSteps.java:42)
+	at ✽.the user will choose "Rock"(file:///home/dulphy/workspace/workSpaceTestingNew/junitproject/src/test/java/resource/game.feature:4)
+

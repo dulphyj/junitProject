@@ -1,0 +1,15 @@
+
+t
+java:S1488>"^Immediately return this expression instead of assigning it to the temporary variable "choice".(åôĞò
+0
+java:S1220""Move this file to a named package.
+E	java:S106"+Replace this use of System.out by a logger.(´ƒ¿ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­ ïäúÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(¡¸’„
+@	java:S106!"+Replace this use of System.out by a logger.(·ò—
+E	java:S106&"+Replace this use of System.out by a logger.(’¬‘ºøÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(¦í× şÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(üÂÙÆ
+E	java:S1069"+Replace this use of System.out by a logger.(ŞÅõ®ıÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(ºàÕûÿÿÿÿ
+@	java:S106D"+Replace this use of System.out by a logger.(·ò—
